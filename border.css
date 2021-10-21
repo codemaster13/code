@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container">
+  <h2>Borders</h2>
+
+  <div class="w3-panel w3-border">
+    <p>I have borders.</p>
+  </div>
+  
+  <div class="w3-panel w3-border-left">
+    <p>I have only a left border.</p>
+  </div>
+  
+  <div class="w3-panel w3-border-right">
+    <p>I have only a right border.</p>
+  </div>
+  
+  <div class="w3-panel w3-border-top w3-border-bottom">
+    <p>I have top and bottom borders.</p>
+  </div>
+
+</div>
+
+</body>
+</html>
